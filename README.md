@@ -26,6 +26,7 @@ Today, I practiced basic Java programs related to:
 
 ### String Programs
 
+- `FirstNonRepeating.java`
 - `Palindrome.java`
 - `ReverseString.java`
 
@@ -43,6 +44,7 @@ src/
 |   +-- RightTriangle.java
 |   +-- SolidSquare.java
 +-- String/
+|   +-- FirstNonRepeating.java
 |   +-- Palindrome.java
 |   +-- ReverseString.java
 +-- Main.java
