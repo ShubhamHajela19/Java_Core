@@ -4,16 +4,46 @@ This repository is for my Java Core learning and revision.
 
 I have set a target to complete Java Core basics in 7 days. I will keep adding programs topic by topic as I learn them.
 
-## Current Progress
+## Learning Sequence
 
-Today, I practiced basic Java programs related to:
+### 1. Basic Programs
 
-- Pattern printing
-- String problems
+- `AddNumbers.java`
+- `RectangleArea.java`
+- `SimpleInterest.java`
+- `Square.java`
+- `SwapNumbers.java`
+- `TemperatureConversion.java`
 
-## Programs Added
+### 2. Conditional Statements
 
-### Pattern Programs
+- `AbsoluteValue.java`
+- `EvenOdd.java`
+- `GradeSystem.java`
+- `LargestNumber.java`
+- `LeapYear.java`
+- `PositiveNegative.java`
+- `VoteingEligibility.java`
+- `VowelConsonents.java`
+
+### 3. Loops and Number Programs
+
+- `Armstrong.java`
+- `CountDigits.java`
+- `Factorial.java`
+- `MultiplicationTable.java`
+- `PrintNumbers.java`
+- `ReverseNumber.java`
+- `SumDigits.java`
+- `SumNaturalNo.java`
+
+### 4. String Programs
+
+- `FirstNonRepeating.java`
+- `Palindrome.java`
+- `ReverseString.java`
+
+### 5. Pattern Programs
 
 - `Butterfly.java`
 - `Diamond.java`
@@ -24,29 +54,24 @@ Today, I practiced basic Java programs related to:
 - `RightTriangle.java`
 - `SolidSquare.java`
 
-### String Programs
+### 6. Prime Number Programs
 
-- `FirstNonRepeating.java`
-- `Palindrome.java`
-- `ReverseString.java`
+- `CountPrimes.java`
+- `FirstNPrimes.java`
+- `LongestCommonPrefix.java`
+- `Prime1to100.java`
+- `PrimeNumber.java`
+- `SumofPrimes.java`
 
 ## Folder Structure
 
 ```text
 src/
++-- Basic/
++-- Conditions/
 +-- Pattern/
-|   +-- Butterfly.java
-|   +-- Diamond.java
-|   +-- FlyodTriangle.java
-|   +-- InvertedTriangle.java
-|   +-- NumberTriangle.java
-|   +-- Pyramid.java
-|   +-- RightTriangle.java
-|   +-- SolidSquare.java
++-- Prime/
 +-- String/
-|   +-- FirstNonRepeating.java
-|   +-- Palindrome.java
-|   +-- ReverseString.java
 +-- Main.java
 ```
 
@@ -54,4 +79,4 @@ src/
 
 The goal of this repository is to complete Java Core basics in 7 days and use this repo later for quick revision.
 
-More topics will be added from tomorrow as I continue learning.
+More topics will be added as I continue learning.
