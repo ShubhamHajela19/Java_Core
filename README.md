@@ -63,12 +63,23 @@ I have set a target to complete Java Core basics in 7 days. I will keep adding p
 - `PrimeNumber.java`
 - `SumofPrimes.java`
 
+### 7. Object-Oriented Programming
+
+- Encapsulation: `OOP/encapsulation/Main.java`
+- Inheritance: `OOP/inheritence/Main.java`
+- Polymorphism overloading: `OOP/Polymorphism/Main.java`
+- Polymorphism overriding: `OOP/Polymorphism/Main2.java`
+
 ## Folder Structure
 
 ```text
 src/
 +-- Basic/
 +-- Conditions/
++-- OOP/
+|   +-- encapsulation/
+|   +-- inheritence/
+|   +-- Polymorphism/
 +-- Pattern/
 +-- Prime/
 +-- String/
