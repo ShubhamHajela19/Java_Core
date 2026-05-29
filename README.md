@@ -1,93 +1,131 @@
-# Java Core Learning
+# ☕ Java Core Learning Journey
 
-This repository is for my Java Core learning and revision.
+Welcome to my Java Core Learning Repository!
 
-I have set a target to complete Java Core basics in 7 days. I will keep adding programs topic by topic as I learn them.
+This repository contains all the programs, concepts, and practice exercises that I am using to learn and strengthen my understanding of Java. It serves as both a learning resource and a quick revision guide for future reference.
 
-## Learning Sequence
+As I continue exploring Java, I will keep adding new programs and concepts topic by topic. 🚀
 
-### 1. Basic Programs
+---
 
-- `AddNumbers.java`
-- `RectangleArea.java`
-- `SimpleInterest.java`
-- `Square.java`
-- `SwapNumbers.java`
-- `TemperatureConversion.java`
+## 📚 Learning Roadmap
 
-### 2. Conditional Statements
+### 🔹 1. Basic Programs
 
-- `AbsoluteValue.java`
-- `EvenOdd.java`
-- `GradeSystem.java`
-- `LargestNumber.java`
-- `LeapYear.java`
-- `PositiveNegative.java`
-- `VoteingEligibility.java`
-- `VowelConsonents.java`
+* `AddNumbers.java`
+* `RectangleArea.java`
+* `SimpleInterest.java`
+* `Square.java`
+* `SwapNumbers.java`
+* `TemperatureConversion.java`
 
-### 3. Loops and Number Programs
+### 🔹 2. Conditional Statements
 
-- `Armstrong.java`
-- `CountDigits.java`
-- `Factorial.java`
-- `MultiplicationTable.java`
-- `PrintNumbers.java`
-- `ReverseNumber.java`
-- `SumDigits.java`
-- `SumNaturalNo.java`
+* `AbsoluteValue.java`
+* `EvenOdd.java`
+* `GradeSystem.java`
+* `LargestNumber.java`
+* `LeapYear.java`
+* `PositiveNegative.java`
+* `VoteingEligibility.java`
+* `VowelConsonents.java`
 
-### 4. String Programs
+### 🔹 3. Loops & Number Programs
 
-- `FirstNonRepeating.java`
-- `Palindrome.java`
-- `ReverseString.java`
+* `Armstrong.java`
+* `CountDigits.java`
+* `Factorial.java`
+* `MultiplicationTable.java`
+* `PrintNumbers.java`
+* `ReverseNumber.java`
+* `SumDigits.java`
+* `SumNaturalNo.java`
 
-### 5. Pattern Programs
+### 🔹 4. String Programs
 
-- `Butterfly.java`
-- `Diamond.java`
-- `FlyodTriangle.java`
-- `InvertedTriangle.java`
-- `NumberTriangle.java`
-- `Pyramid.java`
-- `RightTriangle.java`
-- `SolidSquare.java`
+* `FirstNonRepeating.java`
+* `Palindrome.java`
+* `ReverseString.java`
 
-### 6. Prime Number Programs
+### 🔹 5. Pattern Programs
 
-- `CountPrimes.java`
-- `FirstNPrimes.java`
-- `LongestCommonPrefix.java`
-- `Prime1to100.java`
-- `PrimeNumber.java`
-- `SumofPrimes.java`
+* `Butterfly.java`
+* `Diamond.java`
+* `FlyodTriangle.java`
+* `InvertedTriangle.java`
+* `NumberTriangle.java`
+* `Pyramid.java`
+* `RightTriangle.java`
+* `SolidSquare.java`
 
-### 7. Object-Oriented Programming
+### 🔹 6. Prime Number Programs
 
-- Encapsulation: `OOP/encapsulation/Main.java`
-- Inheritance: `OOP/inheritence/Main.java`
-- Polymorphism overloading: `OOP/Polymorphism/Main.java`
-- Polymorphism overriding: `OOP/Polymorphism/Main2.java`
+* `CountPrimes.java`
+* `FirstNPrimes.java`
+* `LongestCommonPrefix.java`
+* `Prime1to100.java`
+* `PrimeNumber.java`
+* `SumofPrimes.java`
 
-## Folder Structure
+### 🔹 7. Object-Oriented Programming (OOP)
+
+#### 🔒 Encapsulation
+
+* `OOP/encapsulation/Main.java`
+
+#### 🧬 Inheritance
+
+* `OOP/inheritence/Main.java`
+
+#### 🔄 Polymorphism (Method Overloading)
+
+* `OOP/Polymorphism/Main.java`
+
+#### 🎭 Polymorphism (Method Overriding)
+
+* `OOP/Polymorphism/Main2.java`
+
+---
+
+## 📂 Project Structure
 
 ```text
 src/
-+-- Basic/
-+-- Conditions/
-+-- OOP/
-|   +-- encapsulation/
-|   +-- inheritence/
-|   +-- Polymorphism/
-+-- Pattern/
-+-- Prime/
-+-- String/
-+-- Main.java
+├── Basic/
+├── Conditions/
+├── OOP/
+│   ├── encapsulation/
+│   ├── inheritence/
+│   └── Polymorphism/
+├── Pattern/
+├── Prime/
+├── String/
+└── Main.java
 ```
 
-## Goal
+---
 
-The goal of this repository is to complete Java Core basics in 7 days and use this repo later for quick revision.
+## 🎯 Purpose of This Repository
 
-More topics will be added as I continue learning.
+* Learn Java Core concepts through hands-on coding.
+* Practice programming fundamentals regularly.
+* Build a strong foundation in Object-Oriented Programming.
+* Improve problem-solving skills.
+* Maintain a personal collection of Java programs for quick revision and interview preparation.
+
+---
+
+## 🚀 What's Next?
+
+This repository will continue to grow as I explore more Java topics, including:
+
+* Arrays
+* ArrayList
+* Exception Handling
+* File Handling
+* Collections Framework
+* Multithreading
+* JDBC
+* Mini Java Projects
+
+Stay tuned for more updates and happy coding! ☕💻
